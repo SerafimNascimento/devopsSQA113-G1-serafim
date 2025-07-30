@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "testing": "testingdevopssqa113g1serafim",
+    "staging": "stagingdevopssqa113g1serafim",
+    "production": "productiondevopsqa113g1serafim"
+  }
+}
